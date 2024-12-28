@@ -8,10 +8,10 @@ The project aim is to build a dasboard where it shows active attendance of the e
 
 # Data Transformation 
 
-The raw data is in the excel where there are subhseets for each month attendance below is the image for the same.
+Below is the raw data in excel consists of subhseets for each month attendance of employees below is the image for the same.
 ![image](https://github.com/user-attachments/assets/63e91677-986d-4bc2-b61f-6c469002f851)
 
-All of the three month data is consider under one column below is the image for the same.
+After cleaning and transformation of data using for real time analysis below is the final data on using which dashboard is created.
 ![image](https://github.com/user-attachments/assets/edcad1d4-1ff0-462e-a276-d725690cff81)
 
 The PowerBI Dashboard for employee attendance
