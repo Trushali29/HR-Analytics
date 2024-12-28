@@ -12,8 +12,8 @@ The raw data is in the excel where there are subhseets for each month attendance
 ![image](https://github.com/user-attachments/assets/63e91677-986d-4bc2-b61f-6c469002f851)
 
 All of the three month data is consider under one column below is the image for the same.
-![image](https://github.com/user-attachments/assets/ba971f37-2905-43c6-98eb-4ce50509ecfa)
+![image](https://github.com/user-attachments/assets/edcad1d4-1ff0-462e-a276-d725690cff81)
 
 The PowerBI Dashboard for employee attendance
-![image](https://github.com/user-attachments/assets/5244db25-6316-404c-b927-77caa805b68c)
+![image](https://github.com/user-attachments/assets/fa08a541-0574-424f-9abc-f31b807a16dd)
 
